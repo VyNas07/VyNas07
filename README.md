@@ -1,4 +1,4 @@
-### Olá. Me chamo Vyktor Nascimento👋
+### Olá, Me chamo Vyktor Nascimento👋
 
 
 - 🔭 Estou trabalhando em dois projetos atualmente, PartyHub e um outro privado;
