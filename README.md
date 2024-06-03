@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando em dois projetos atualmente, PartyHub e um outro privado;
-- 🌱 Estou cursando análise e desenvolvimento de sstemas no C.E.S.A.R. School;
+- 🌱 Estou cursando análise e desenvolvimento de sistemas na C.E.S.A.R. School;
 - ⚡ Fun fact: Eu sou facinado por empreendedorismo e mercado financeiro.
 
 <div>
