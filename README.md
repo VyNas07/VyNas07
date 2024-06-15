@@ -1,9 +1,9 @@
-### Olá, Me chamo Vyktor Nascimento👋
+### Hello, I'm Vyktor Nascimento👋
 
 
-- 🔭 Estou trabalhando em dois projetos atualmente, PartyHub e um outro privado;
-- 🌱 Estou cursando análise e desenvolvimento de sistemas na C.E.S.A.R. School;
-- ⚡ Fun fact: Eu sou facinado por empreendedorismo e mercado financeiro.
+- 🔭 I'm driven by projects, I'm always learning and implementing;
+- 🌱 I'm studying systems analysis and development at C.E.S.A.R. School;
+- ⚡ Fun fact: I'm fascinated by entrepreneurship and the financial market.
 
 <div>
   <a href="https://github.com/VyNas07">
