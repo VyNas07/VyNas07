@@ -1,7 +1,7 @@
-### Hello, I'm Vyktor Nascimento👋
+## Hello, I'm Vyktor Nascimento👋
 
 
-- 🔭 I'm driven by projects, I'm always learning and implementing;
+- 🔭 projects drive me, I'm always learning and implementing;
 - 🌱 I'm studying systems analysis and development at C.E.S.A.R. School;
 - ⚡ Fun fact: I'm fascinated by entrepreneurship and the financial market.
 
