@@ -1,29 +1,11 @@
-## Hello, I'm Vyktor Nascimento👋
+# Hello, I'm Vyktor Nascimento👋
 
-[Acesse o meu currículo atualizado!](https://docs.google.com/document/d/1bbk3mkBSmhQaormlrHq2KQRWxPxK2fEzgjOgW-mxCeg/edit?usp=sharing)
+## Curriculum
 
-## 📄 Meu Currículo
-
-[Acesse meu currículo atualizado 🚀](https://docs.google.com/document/d/ID_DO_SEU_DOCUMENTO)
+> 🎯 [**Currículo atualizado PT-BR**](https://docs.google.com/document/d/1bbk3mkBSmhQaormlrHq2KQRWxPxK2fEzgjOgW-mxCeg/edit?usp=sharing) 📄  
 
 
----
-
-## 🌟 **Currículo Atualizado**
-
-🔗 [Clique aqui para acessar o currículo completo](https://docs.google.com/document/d/ID_DO_SEU_DOCUMENTO) 📄
-
----
-
-
-[![Currículo](https://img.shields.io/badge/-Visualizar%20Currículo-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/ID_DO_SEU_DOCUMENTO)
-
-## ✨ Currículo
-
-> 🎯 [**Clique aqui para visualizar** o meu currículo atualizado!](https://docs.google.com/document/d/ID_DO_SEU_DOCUMENTO) 📄  
-> Atualizado constantemente para refletir minhas habilidades e projetos mais recentes!
-
-
+## About me
 
 - 🔭 projects drive me, I'm always learning and implementing;
 - 🌱 I'm studying systems analysis and development at C.E.S.A.R. School;
@@ -41,8 +23,6 @@
   <img align="center" alt="VyNas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="VyNas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-##
 
 <div> 
   <a href="https://www.instagram.com/vyktor_f/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
