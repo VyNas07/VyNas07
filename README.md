@@ -1,4 +1,4 @@
-# Hello, I'm Vyktor Nascimento👋
+# Hey, I'm Vyktor Nascimento👋
 
 ## Curriculum
 
