@@ -2,6 +2,29 @@
 
 [Acesse o meu currículo atualizado!](https://docs.google.com/document/d/1bbk3mkBSmhQaormlrHq2KQRWxPxK2fEzgjOgW-mxCeg/edit?usp=sharing)
 
+## 📄 Meu Currículo
+
+[Acesse meu currículo atualizado 🚀](https://docs.google.com/document/d/ID_DO_SEU_DOCUMENTO)
+
+
+---
+
+## 🌟 **Currículo Atualizado**
+
+🔗 [Clique aqui para acessar o currículo completo](https://docs.google.com/document/d/ID_DO_SEU_DOCUMENTO) 📄
+
+---
+
+
+[![Currículo](https://img.shields.io/badge/-Visualizar%20Currículo-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/ID_DO_SEU_DOCUMENTO)
+
+## ✨ Currículo
+
+> 🎯 [**Clique aqui para visualizar** o meu currículo atualizado!](https://docs.google.com/document/d/ID_DO_SEU_DOCUMENTO) 📄  
+> Atualizado constantemente para refletir minhas habilidades e projetos mais recentes!
+
+
+
 - 🔭 projects drive me, I'm always learning and implementing;
 - 🌱 I'm studying systems analysis and development at C.E.S.A.R. School;
 - ⚡ Fun fact: I'm fascinated by entrepreneurship and the financial market.
