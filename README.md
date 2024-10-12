@@ -1,5 +1,6 @@
 ## Hello, I'm Vyktor Nascimento👋
 
+[Acesse o meu currículo atualizado!](https://docs.google.com/document/d/1bbk3mkBSmhQaormlrHq2KQRWxPxK2fEzgjOgW-mxCeg/edit?usp=sharing)
 
 - 🔭 projects drive me, I'm always learning and implementing;
 - 🌱 I'm studying systems analysis and development at C.E.S.A.R. School;
