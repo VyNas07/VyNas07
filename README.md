@@ -2,7 +2,7 @@
 
 ## Curriculum
 
-> 🎯 [**Currículo atualizado PT-BR**](https://docs.google.com/document/d/1bbk3mkBSmhQaormlrHq2KQRWxPxK2fEzgjOgW-mxCeg/edit?usp=sharing) 📄  
+> 🎯 [**Currículo atualizado PT-BR**](https://docs.google.com/document/d/138cBlr9WD57pJCg6CDVbxfhz54oBxc0PoVNmuhF-d1U/edit?usp=sharing) 📄  
 
 
 ## About me
