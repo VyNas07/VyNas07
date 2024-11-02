@@ -4,7 +4,6 @@
 
 > 🎯 [**Currículo atualizado - Português**](https://docs.google.com/document/d/138cBlr9WD57pJCg6CDVbxfhz54oBxc0PoVNmuhF-d1U/edit?usp=sharing) 📄
 > 🎯 [**Updated CV - English**](https://docs.google.com/document/d/10znO2iyF8SWnaC1U31aEzNLdPjzjWOGOsA2de72O85E/edit?usp=sharing) 📄
-> 🙋[**Linkedin**](https://www.linkedin.com/in/vyktor-nascimento/)
 
 ## About me
 
