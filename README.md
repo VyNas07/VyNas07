@@ -10,7 +10,7 @@
 
 - 🔭 projects drive me, I'm always learning and implementing;
 - 🌱 I'm studying systems analysis and development at C.E.S.A.R. School;
-- ⚡ Fun fact: I'm fascinated by entrepreneurship and the financial market.
+- ⚡ Fun fact: I'm fascinated by entrepreneurship, DeFi and the financial market.
 
 <div>
   <a href="https://github.com/VyNas07">
