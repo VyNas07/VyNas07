@@ -1,11 +1,12 @@
-# Hey, I'm Vyktor Nascimento👋
+# 👋 Hi, I’m Vyktor Nascimento
+
+- 🚀 Cofounder of [Keiza Capital](https://www.keizacapital.com.br/) — building DeFi solutions and payment infrastructure in blockchain.   
+- 🌍 Focused on fintech, entrepreneurship, and scalable financial products.
+- 📫 Let’s connect: [LinkedIn](www.linkedin.com/in/vyktor-nascimento) | [Instagram]([https://twitter.com/seu-username](https://www.instagram.com/vyktornas/)) | [YouTube]([https://www.youtube.com/@seu-canal](https://www.youtube.com/channel/UCYYs31E_vRXZYGpCZxPcuRw))
 
 
-## About me
-
-- 🔭 projects drive me, I'm always learning and implementing;
-- 🌱 I'm studying systems analysis and development at C.E.S.A.R. School;
-- ⚡ Fun fact: I'm fascinated by entrepreneurship, DeFi and the financial market.
+---
+⚡ Fun fact: our platform has already transacted +R$30k and we’re just getting started.
 
 <div>
   <a href="https://github.com/VyNas07">
