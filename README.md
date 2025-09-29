@@ -2,7 +2,7 @@
 
 - 🚀 Cofounder of [Keiza Capital](https://www.keizacapital.com.br/) — building DeFi solutions and payment infrastructure in blockchain.   
 - 🌍 Focused on fintech, entrepreneurship, and scalable financial products.
-- 📫 Let’s connect: [LinkedIn](www.linkedin.com/in/vyktor-nascimento) | [Instagram]((https://www.instagram.com/vyktornas/)) | [YouTube](https://www.youtube.com/channel/UCYYs31E_vRXZYGpCZxPcuRw))
+- 📫 Let’s connect: [LinkedIn](www.linkedin.com/in/vyktor-nascimento) | [Instagram](https://www.instagram.com/vyktornas/) | [YouTube](https://www.youtube.com/channel/UCYYs31E_vRXZYGpCZxPcuRw))
 
 
 ---
